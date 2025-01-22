@@ -1,0 +1,17 @@
+{
+    "US": [
+        { "id": 1, "name": "California" },
+        { "id": 2, "name": "Texas" },
+        { "id": 3, "name": "New York" }
+    ],
+    "CA": [
+        { "id": 1, "name": "Ontario" },
+        { "id": 2, "name": "Quebec" },
+        { "id": 3, "name": "British Columbia" }
+    ],
+    "AU": [
+        { "id": 1, "name": "New South Wales" },
+        { "id": 2, "name": "Victoria" },
+        { "id": 3, "name": "Queensland" }
+    ]
+}
